@@ -1,0 +1,17 @@
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebAutomated.exe.config
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebAutomated.exe
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebAutomated.pdb
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebDriver.dll
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebDriver.xml
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.csprojResolveAssemblyReference.cache
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.Properties.Resources.resources
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.csproj.GenerateResource.Cache
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.exe
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.pdb
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\Newtonsoft.Json.dll
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\Newtonsoft.Json.xml
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.frmAutomated.resources
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebAutomated.exe.manifest
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\bin\Debug\WebAutomated.application
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.exe.manifest
+C:\C#Projeler\Automated\WebAutomated\WebAutomated\obj\Debug\WebAutomated.application

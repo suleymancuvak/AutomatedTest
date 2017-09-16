@@ -1,0 +1,13 @@
+﻿{
+
+
+  "mail_settings": {
+    "email_add": "Enter email address",
+    "email_password": "Enter your password",
+    "email_receipents": "Enter your receipents",
+    "email_subject":"Email Subject",
+    "email_body":"Lorem Ipsum"
+    
+  }
+  
+}
